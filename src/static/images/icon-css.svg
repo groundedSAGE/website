@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Programming Languages/icon-css</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons/Programming-Languages/icon-css" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="80" height="80"></rect>
+        <path d="M5,0 L11.411452,71.9785116 L40.1804118,80 L69.0297139,71.9491802 L75.446267,0 L5,0 Z M62.1266429,16.4905988 L59.9924679,40.4689829 L59.9988443,40.5984234 L59.9899173,40.8962005 L59.9899173,40.8936499 L58.4736137,57.6597084 L58.3065525,59.1492312 L40.2231335,64.1508652 L40.2231335,64.1515028 L40.2091055,64.163618 L22.1569307,59.1339279 L20.9345783,45.2723114 L29.7869093,45.2723114 L30.4149829,52.3207639 L40.2256841,54.9797151 L40.2231335,54.9848162 L40.2231335,54.983541 L50.0701801,52.2869691 L51.1108056,40.808844 L30.5259319,40.808844 L30.3493062,38.868511 L29.9469565,34.3227884 L29.7358982,31.8819094 L51.8931876,31.8819094 L52.6991623,22.9549748 L18.9515236,22.9549748 L18.7748978,21.015917 L18.3731857,16.4689191 L18.1614898,14.0280401 L62.3377012,14.0280401 L62.1266429,16.4905988 Z" id="Shape" fill="#52636C" fill-rule="nonzero"></path>
+    </g>
+</svg>

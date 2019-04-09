@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "title": "An Introduction to the Hitchhiker Tree",
+      "author": "Christian Weilbach",
+      "description": "The goal of the Hitchhiker tree is to wed three things: the query performance of a B+ tree, the write performance of an append-only log, and convenience of a functional, persistent data structure.",
+      "tags": "clojure",
+      "link": "https://blog.datopia.io/2018/11/03/hitchhiker-tree/",
+      "date": "2018-11-03"
+    },
+    {
+      "title": "Rapid Web App Prototyping with Clojurescript",
+      "author": "Konrad Kühne",
+      "description": "A short trip through web development via Om, a beautiful React-wrapper in Clojurescript, and replikativ, a simple synchronisation infrastructure",
+      "tags": ["clojure", "react"],
+      "link": "http://konradkuehne.com/2017/06/19/prototyping-with-cljs.html",
+      "date": "2017-06-19"
+    }
+  ],
+  "clients": [
+    {
+      "title": "Heidelberg Cement AG",
+      "description": "",
+      "tools": ["javascript", "nodejs", "react", "linux", "docker"],
+      "link": ""
+    },
+    {
+      "title": "TWT Health GmbH",
+      "description": "Review of medical assistance application for Parkinson patients.",
+      "tools": ["javascript", "nodejs", "react", "sql", "linux", "docker"],
+      "link": ""
+    },
+    {
+      "title": "Oxford University",
+      "description": "Development on probabilistic programming language system Anglican.",
+      "tools": ["clojure", "probabilistic-programming", "statistics"],
+      "link": ""
+    },
+    {
+      "title": "100 Worte GmbH",
+      "description": "Design and development of a data-intensive information system for emotional text analysis. Product development from architecture design to development and operations.",
+      "tools": ["clojure", "python", "kafka", "apache", "linux", "docker"],
+      "link": ""
+    },
+    {
+      "title": "Economic Networks Limited",
+      "description": "Development on an innovative functional blockchain exchange system. Design consulting for evolutionary architecture.",
+      "tools": ["clojure", "blockchain"],
+      "link": ""
+    },
+    {
+      "title": "Heidelberg University",
+      "description": "Collaboration with the Psychological Institute. Development and operation of an Android app in combination with a backend system and desktop application used for psychological research.",
+      "tools": ["clojure", "java", "android", "docker", "linux"],
+      "link": ""
+    },
+    {
+      "title": "feeba.me UG",
+      "description": "Creation of a review web application for business end-users with integration of geo data.",
+      "tools": ["clojure", "java", "android", "linux", "docker"],
+      "link": ""
+    },
+    {
+      "title": "caprimed GmbH",
+      "description": "Design of mobile web API for dental online marketplace. Development of Android application, API mockup and API testing framework.",
+      "tools": ["javascript", "clojure", "nodejs"],
+      "link": ""
+    },
+    {
+      "title": "Exzellenzhotel Heidelberg",
+      "description": "Design and implementation of a multi-lingual, isomorphic content management system.",
+      "tools": [
+        "javascript",
+        "html",
+        "css",
+        "react",
+        "nodejs",
+        "linux",
+        "docker"
+      ],
+      "link": ""
+    },
+    {
+      "title": "Apfel GmbH",
+      "description": "Design overhaul of legacy API and database for IOT application in industrial storage towers.",
+      "tools": ["javascript", "nodejs", "swift"],
+      "link": ""
+    },
+    {
+      "title": "Brandagram GmbH",
+      "description": "Development of an Android camera app with live filters, using a self-made OpenGl pipeline.",
+      "tools": ["java", "android", "opengl"],
+      "link": ""
+    },
+    {
+      "title": "MatchRider UG",
+      "description": "Development of Android application and extension of web system for car sharing application.",
+      "tools": ["java", "javascript", "android", "react"],
+      "link": ""
+    },
+    {
+      "title": "Biomedical Informatics Heidelberg",
+      "description": "Statistical analytics of medical data.",
+      "tools": ["clojure", "r", "spss"],
+      "link": ""
+    },
+    {
+      "title": "Keatec GmbH",
+      "description": "Deep-Learning based system for a callcenter application.",
+      "tools": ["python"],
+      "link": ""
+    }
+  ]
+}

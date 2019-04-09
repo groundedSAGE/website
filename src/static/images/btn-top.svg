@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="40px" viewBox="0 0 38 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Screens-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.15">
+        <g id="Desktop-HD" transform="translate(-701.000000, -5174.000000)" fill="#000000">
+            <path d="M701,5209 L720,5190 L739,5209 L734,5214 L720,5200 L706,5214 L701,5209 Z M701,5193 L720,5174 L739,5193 L734,5198 L720,5184 L706,5198 L701,5193 Z" id="btn-top"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<section id="sec-04" class="shade-01-bg">
+    <div class="container">
+        <h2 class="sec-headline">Clients</h2>
+        <p class="text-center">Having worked with large corprations as well as small startups, we are able to adjust to
+            different environments.</p>
+        <p class="text-center margin-bottom"><a href="mailto:info@lambdaforge.io"><em>We are happy to help you with your
+                    digital challenges!</em></a></p>
+
+        {% ClientList clients 0 3  %}
+
+        <input type="checkbox" id="show-clients" class="text-center mobile show-more-box" />
+
+        <div class="list-continued">
+
+            {% ClientList clients 0  %}
+
+        </div>
+
+        <label for="show-clients" class="show-more-label"></label>
+    </div>
+
+</section>

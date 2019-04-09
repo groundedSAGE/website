@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Programming Languages/icon-html</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons/Programming-Languages/icon-html" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="80" height="80"></rect>
+        <path d="M5.02048,0 L11.42368,71.73952 L40.15712,79.67616 L68.96992,71.74848 L75.37952,0 L5.02048,0 Z M62.06112,16.98496 L61.65984,21.57504 L61.4832,23.68 L27.7776,23.68 L28.58208,32.64 L60.68192,32.64 L60.46688,34.86144 L58.39776,57.9776 L58.24544,59.4304 L40.2,64.38976 L40.2,64.39104 L40.17824,64.40256 L22.14496,59.65184 L20.92064,46.08 L29.76224,46.08 L30.3888,53.06816 L40.17248,55.68 L40.2,55.68 L40.2,55.33056 L50.0272,52.85056 L51.05376,41.6 L20.52704,41.6 L18.36192,17.20512 L18.15136,14.72 L62.27232,14.72 L62.06112,16.98496 Z" id="Shape" fill="#52636C" fill-rule="nonzero"></path>
+    </g>
+</svg>

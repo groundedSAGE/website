@@ -1,0 +1,38 @@
+<section id="sec-03">
+    <div class="container">
+        <h2 class="sec-headline">Articles</h2>
+        <p class="text-center">As open source developers we are interested in transferring our knowledge about our work
+            as often as possible. Here we are collecting the latest blog posts, screencasts or announcements.</p>
+        <p class="text-center margin-bottom"><a href="mailto:info@lambdaforge.io"><em>Got some questions we should write
+                    about? Let us know! </em></a></p>
+
+        {% for article in articles %}
+        <div class="card-horiz shade-01-bg">
+            <figure class="{{ square_class }}"></figure>
+            <table>
+                <tr>
+                    <td>Title</td>
+                    <td>{{ article.title }}</td>
+                </tr>
+                <tr>
+                    <td>Description</td>
+                    <td>{{ article.description }}</td>
+                </tr>
+                <tr>
+                    <td>Tags</td>
+                    <td>
+                        {% for t in article.tags %}
+                        <i class="icon-m {{ t }}"></i>
+                        {% endfor %}
+                    </td>
+                </tr>
+            </table>
+            <aside>
+                <p>By {{ article.author }}</p>
+                <a href="{{ article.link }}">link</a>
+            </aside>
+        </div>
+        {% endfor %}
+    </div>
+
+</section>

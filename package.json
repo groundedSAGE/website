@@ -1,0 +1,28 @@
+{
+  "name": "eleventy-minimal",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gulp build && npx eleventy",
+    "dev": "ELEVENTY_ENV=development eleventy --serve & gulp dev",
+    "mobileDev": "ELEVENTY_ENV=development eleventy --serve & gulp mobileDev"
+  },
+  "author": "Wade Dominic",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.2",
+    "@fullhuman/postcss-purgecss": "^1.1.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "html-minifier": "^4.0.0",
+    "plumber": "^0.4.8",
+    "postcss": "^7.0.14",
+    "postcss-cli": "^6.1.2",
+    "tailwindcss": "^1.0.0-beta.4"
+  },
+  "dependencies": {}
+}
